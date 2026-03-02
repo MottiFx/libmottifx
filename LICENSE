@@ -1,15 +1,7 @@
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
-<<<<<<< HEAD
-<<<<<<< HEAD
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
-=======
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
->>>>>>> 3e75cd53eea334b14ff877224f60a85561b55e92
-=======
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
->>>>>>> 41d83aadf0c285f9c68cab78b29ea4ffff7c5a99
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
@@ -626,30 +618,6 @@ an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-  18. Exceptions
-
-  The OpenShot Video Editor project hereby grants permission for non-GPL 
-compatible GStreamer, FFMPEG, and libopenshot to be used and distributed
-together with GStreamer, FFMPEG, MLT, and OpenShot Video Editor. This
-permission is above and beyond the permissions granted by the GPL license
-by which OpenShot Video Editor is covered. If you modify this code, you
-may extend this exception to your version of the code, but you are not
-obligated to do so. If you do not wish to do so, delete this exception
-statement from your version.
-
-  OpenShot Video Editor does not contain or use any proprietary codecs.
-We support free and open-source codecs, such as Ogg Vorbis and Theora.
-However, since we use the ffmpeg library, it is possible to use any
-ffmpeg supported codec, assuming you have legal permission to do so.
-  
-
-                     END OF TERMS AND CONDITIONS
-=======
-=======
->>>>>>> 41d83aadf0c285f9c68cab78b29ea4ffff7c5a99
                      END OF TERMS AND CONDITIONS
 
             How to Apply These Terms to Your New Programs
@@ -704,7 +672,3 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
-<<<<<<< HEAD
->>>>>>> 3e75cd53eea334b14ff877224f60a85561b55e92
-=======
->>>>>>> 41d83aadf0c285f9c68cab78b29ea4ffff7c5a99
