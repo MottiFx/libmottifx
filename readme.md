@@ -1,23 +1,8 @@
 # MottiFx Video Editor
 In this repo its just code effect for image,video and audio. you can see the code whiout use gui, but if you want see full code, look guimottifx repo.
 
-## Creative Protocol: Join The Mission
-Professional software should be accessible to everyone. By choosing **MottiFx**, you're not just getting a tool—you're choosing to build your career on a **legal and ethical foundation**.
-
-### User Pledge
-By using this software, you join us in a commitment to a cleaner and more purposeful creative industry:
-
-* **Produce Halal & Beneficial Media**
-  Commit to creating content that is *Halal-compliant*, inspiring, and brings positive value to the global audience.
-* **Maintain Creative Integrity**
-  Avoid producing deceptive, harmful, or unethical media that violates universal moral standards.
-* **Support Legal Foundations**
-  Choose clean, open-source software like MottiFx to stop the cycle of piracy and build a career filled with blessings.
-
----
-
-> **Our Vision:** This project is built for creators to make **wholesome, halal, and positive content**. We believe technology should be a force for good. By using this software, you join us in a commitment to keep the creative world ethical and the source code free for the community.
-
+## Our Vision
+This project is built to empower creators to produce wholesome and positive media. We believe technology should be a force for good, providing a legal and ethical foundation for everyone to build their career with integrity.
 
 ## We Social
 <div align="center">
