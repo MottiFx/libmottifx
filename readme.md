@@ -1,8 +1,7 @@
 # MottiFx Video Editor
 In this repo its just code effect for image,video and audio. you can see the code whiout use gui, but if you want see full code, look guimottifx repo.
 
-## Our Vision
-This project is built to empower creators to produce wholesome and positive media. We believe technology should be a force for good, providing a legal and ethical foundation for everyone to build their career with integrity.
+
 
 ## We Social
 <div align="center">
